@@ -1,0 +1,5 @@
+tkinter==0.0.0; sys_platform == "win32"
+Pillow
+opencv-python
+cairosvg
+pyperclip
