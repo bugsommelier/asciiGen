@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 Clone the repository to your local machine:
 ```bash
-git clone <repo-url>
+git clone https://github.com/bugsommelier/asciiGen
 ```
 Navigate to the cloned directory and install the required Python libraries:
 ```bash
